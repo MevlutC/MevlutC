@@ -27,9 +27,7 @@ Yapay Zeka | Veri Bilimi | Python Geliştirici
 
 ### İletişim
 - 📧 Mail: [mevlutcorez8@gmail.com]
-- 💼 [www.linkedin.com/in/
-mevlut-c-65838a211]
-- 🔗 GitHub: []
+- 💼 [www.linkedin.com/in/mevlut-c-65838a211]
 
 ---
 
